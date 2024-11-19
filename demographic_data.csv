@@ -1,0 +1,51 @@
+patient_id,bmi,bmi_category
+Patient1,22.8,Normal weight
+Patient2,39.4,Obesity
+Patient3,27.0,Overweight
+Patient4,25.5,Overweight
+Patient5,13.7,Normal weight
+Patient6,24.1,Overweight
+Patient7,24.5,Overweight
+Patient8,35.8,Obesity
+Patient9,18.9,Normal weight
+Patient10,29.9,Obesity
+Patient11,24.6,Overweight
+Patient12,25.9,Overweight
+Patient13,16.2,Normal weight
+Patient14,25.9,Overweight
+Patient15,21.6,Normal weight
+Patient16,25.9,Overweight
+Patient17,25.9,Overweight
+Patient18,25.9,Overweight
+Patient19,18.8,Normal weight
+Patient20,25.9,Overweight
+Patient21,10.6,Underweight
+Patient22,17.1,Normal weight
+Patient23,19.2,Normal weight
+Patient24,25.9,Overweight
+Patient25,11.6,Underweight
+Patient26,22.3,Normal weight
+Patient27,14.2,Normal weight
+Patient28,25.9,Overweight
+Patient29,22.4,Normal weight
+Patient30,25.9,Overweight
+Patient31,25.9,Overweight
+Patient32,25.9,Overweight
+Patient33,25.9,Overweight
+Patient34,25.9,Overweight
+Patient35,25.9,Overweight
+Patient36,17.0,Normal weight
+Patient37,13.3,Normal weight
+Patient38,35.4,Obesity
+Patient39,25.9,Overweight
+Patient40,25.9,Overweight
+Patient41,25.9,Overweight
+Patient42,20.2,Normal weight
+Patient43,29.5,Obesity
+Patient44,30.1,Obesity
+Patient45,25.9,Overweight
+Patient46,25.9,Overweight
+Patient47,12.1,Normal weight
+Patient48,15.8,Normal weight
+Patient49,25.9,Overweight
+Patient50,25.9,Overweight
